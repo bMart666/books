@@ -2,7 +2,7 @@
   "books": 
   [ 
     {
-      "tittle":"Fahrenheit 451",
+      "title":"Fahrenheit 451",
       "author": "Ray Bradbury",
       "coverImage":"img/451.jpg",
       "summary":"Montag realizing the world is way different and corrupted than he thought it was",
@@ -14,7 +14,7 @@
       ] 
     },
     {
-      "tittle":"1984",
+      "title":"1984",
       "author": "George Orwell",
       "coverImage":"img/1984.jpg",
       "summary":"Montag realizing the world is way different and corrupted than he thought it was",
@@ -26,7 +26,7 @@
       ] 
     },
     {
-      "tittle":"The Stranger",
+      "title":"The Stranger",
       "author": "Albert Camus",
       "coverImage":"img/stranger.jpg",
       "summary":"Montag realizing the world is way different and corrupted than he thought it was",
