@@ -5,7 +5,7 @@
       "title":"Fahrenheit 451",
       "author": "Ray Bradbury",
       "coverImage":"img/451.jpg",
-      "summary":"Montag realizing the world is way different and corrupted than he thought it was",
+      "summary":"set in a dystopian society that burns books in order to control dangerous ideas and unhappy concepts. The novel tells the story of Guy Montag, a fireman who questions the book-burning policy and undergoes extraordinary suffering and transformation as a result",
       "review":
       [
         {"firstReview": "Very Good!"},
@@ -17,24 +17,24 @@
       "title":"1984",
       "author": "George Orwell",
       "coverImage":"img/1984.jpg",
-      "summary":"Montag realizing the world is way different and corrupted than he thought it was",
+      "summary":"Follows the life of Winston Smith, a low ranking member of 'the Party', who is frustrated by the omnipresent eyes of the party, and its ominous ruler Big Brother. 'Big Brother' controls every aspect of people's lives",
       "review":
       [
-        {"firstReview": "Very Good!"},
-        {"secondReview": "Very Nice!"},
-        {"thirdReview": "Terrific"}
+        {"firstReview": "Amazing Book"},
+        {"secondReview": "Will Read Again"},
+        {"thirdReview": "My mind is blow after reading this"}
       ] 
     },
     {
       "title":"The Stranger",
       "author": "Albert Camus",
       "coverImage":"img/stranger.jpg",
-      "summary":"Montag realizing the world is way different and corrupted than he thought it was",
+      "summary":"The story begins with the death of Mersaults mother Since he is an average man who earns barely enough for himself Mersault sent his mother away to a Home for the Aged in Marengo an action that brought him criticism",
       "review":
       [
-        {"firstReview": "Very Good!"},
-        {"secondReview": "Very Nice!"},
-        {"thirdReview": "Terrific"}
+        {"firstReview": "The ending was good"},
+        {"secondReview": "Would recommend this to a friend"},
+        {"thirdReview": "Very mysterios and the development of the story is amazing"}
       ] 
     }
   ] 
