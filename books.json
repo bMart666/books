@@ -1,89 +1,41 @@
-{
-  "books":
-  [
+{ 
+  "books": 
+  [ 
     {
-    "title":"Fahrentheit 451",
-    "author":"Ray Bradbury"
-    "coverImage":"img/Fahrentheit-451.jpg",
-    "summary":"Fahrenheit 451 is a dystopian novel by American writer Ray Bradbury, first published in 1953. Often regarded as one of his best works,[4] the novel presents a future American society where books are outlawed and "firemen" burn any that are found.[5] The book's tagline explains the title: "Fahrenheit 451 – the temperature at which book paper catches fire, and burns..." The lead character, Guy Montag, is a fireman who becomes disillusioned with his role of censoring literature and destroying knowledge, eventually quitting his job and committing himself to the preservation of literary and cultural writings."
-    "reviews":
-    [
-      "firstReview":"Honestly one of the best books that I have read for a
-      school project. Bradbury is a very smart man for his words and choice
-      in books, he did somewhat actually predict many things that are now here
-      without knowing that they'll be here, he predicted that
-      earbuds/headphones/seashell phones were going to be here in the future
-      along with other things. This book gives everyone a thought about how
-      books can have a huge impact on us if we never read a book and decide to
-      learn about society itself.",
-      "secondReview":"I read this book for a school essay and project which I
-      wasn't necessarily eccentric about but I read the book anyways. The book
-      didn't reach a full climax till the ending part which clicks together all
-      of the information you learn in the previous two parts. I've learned to
-      fall in love with most of the characters and learn how to reflect on them
-      within your daily life. This book has taught me so much more such as the
-      preservation of knowledge and how it helps us.",
-      "thirdReview":"The books wonderful, the message behind it is clear.
-      The imagery and theme were amazing. A lot of younger people who read the
-      book talk about it being boring and stale. But, if you actually know how
-      to process and analyze a text, it becomes one of the books. I love how
-      Bradbury predicted Earbuds, Cell phones, flat screen TVs and the way
-      society reacts to the progression of technology. So, it's a great read
-      if you're willing to actually read it."
-    ]
-  ]
- },
-  [
+      "tittle":"Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "coverImage":"img/Fahrenheit-451.jpg",
+      "summary":"Montag realizing the world is way different and corrupted than he thought it was",
+      "review":
+      [
+        {"firstReview": "Very Good!"},
+        {"secondReview": "Very Nice!"},
+        {"thirdReview": "Terrific"}
+      ] 
+    },
     {
-    "title":"The Stranger",
-    "author":"Albert Camus"
-    "coverImage":"img/The-Stranger.jpg",
-    "summary":"The Stranger is a 1942 novel by French author Albert Camus.
-    Its theme and outlook are often cited as examples of Camus's philosophy of
-    the absurd and existentialism, though Camus personally rejected the latter
-    label."
-    "reviews":
-    [
-      "firstReview":"The stranger draws on existential themes and helps the
-      reader understand them in a meaningful and interesting way. This book is
-      Phenomenal I normally hate reading however this was the first book to
-      really engage me with a character I believe to be far more interesting
-      than most simply because of his unique morals and alienation from society",
-      "secondReview":"Very thought provoking book. I sat down and read this in
-      one sitting and think about if very often. I like the idea of a man that
-      doesn't worry himself over things that unnecessary in life. I personally
-      envy his apathy when it comes to relationships, death, and other peoples
-      opinions.",
-      "thirdReview":"Alienation and quest for identity is the prominent aspects
-      of The Stranger.Camus's philosophy of existentialism is the important part
-      of the novel. The novel presents the character which doesn't find himself
-      in the society and its norms. It challenges the social setup."
-    ]
-  ]
-},
-[
-  {
-  "title":"1984",
-  "author":"George Orwell"
-  "coverImage":"img/1984.jpg",
-  "summary":"1984 is a dystopian novella by George Orwell published in 1949,
-  which follows the life of Winston Smith, a low ranking member of 'the Party',
-  who is frustrated by the omnipresent eyes of the party, and its ominous ruler
-  Big Brother. 'Big Brother' controls every aspect of people's lives."
-  "reviews":
-  [
-    "firstReview":"1984 is a grim tale telling us about the consequences that we
-     may face if a totalitarian state happens to come in power and grew
-     omnipotent. It is a terrifying read almost horror-like and thus also very
-    effective on the minds of the reader. A lot of respect for George Orwell for
-    establishing such a well-realized and detailed world, he truly is a
-    visionary in that sense. It is a novel that everyone should read at least
-    once!",
-    "secondReview":"One of the best books ever written in the history of mankind. It's very thought provoking for it to be written in '49 and talk about the society in '84. Even though it's not meant to be a horror story, it definitely conveys the same emotions unto you. The story is gripping, suspenseful. The last few chapters are really intense. They make you think how far politics has come.
-
-I give this book 10/10. Definitely a classic masterpiece.",
-    "thirdReview":"This book is really fascinating. It shows what will happen if the people allow the government to get too powerful and controlling. 1984 is really suspenseful and leaves you begging to read more. It kept me on my toes the whole time. Everyone should read this novel."
-  ]
-]
-},
+      "tittle":"1984",
+      "author": "George Orwell",
+      "coverImage":"img/1984.jpg",
+      "summary":"Montag realizing the world is way different and corrupted than he thought it was",
+      "review":
+      [
+        {"firstReview": "Very Good!"},
+        {"secondReview": "Very Nice!"},
+        {"thirdReview": "Terrific"}
+      ] 
+    },
+    {
+      "tittle":"The Stranger",
+      "author": "Albert Camus",
+      "coverImage":"img/Fahrenheit-451.jpg",
+      "summary":"Montag realizing the world is way different and corrupted than he thought it was",
+      "review":
+      [
+        {"firstReview": "Very Good!"},
+        {"secondReview": "Very Nice!"},
+        {"thirdReview": "Terrific"}
+      ] 
+    }
+  ] 
 }
